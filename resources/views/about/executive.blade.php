@@ -1,4 +1,3 @@
-
 <body class="bg-gradient-to-b from-[#60002c] to-black text-white min-h-screen">
   <div class="w-full m-auto">
     <img src="storage/images/ENRICHMENT.jpg" alt="Enrichment Banner" class="w-full h-auto object-cover" />
@@ -38,15 +37,15 @@
   }
 </style>
 
-<details class="group bg-gray-800 text-white rounded-lg shadow-md transition-all duration-300 open:ring-2 open:ring-[#751824] max-w-4xl mx-auto mb-6">
-  <summary class="cursor-pointer px-6 py-4 font-semibold text-lg group-open:rounded-b-none hover:bg-gray-700 transition-colors">
+<details class="group bg-gray-800 text-white rounded-lg shadow-md transition-all duration-300 open:ring-2 open:ring-[#751824] max-w-4xl w-full mx-auto mb-6">
+  <summary class="cursor-pointer px-4 sm:px-6 py-3 sm:py-4 font-semibold text-base sm:text-lg group-open:rounded-b-none hover:bg-gray-700 transition-colors flex items-center justify-between">
     Purposes and Benefits
     <span class="transition-transform duration-100 group-open:rotate-90 inline-block">&#9656;</span> 
   </summary>
 
-  <div class="content px-6 pb-5 pt-3 text-sm md:text-base bg-white text-gray-900 rounded-b-lg leading-relaxed break-words">
+  <div class="content px-4 sm:px-6 pb-4 sm:pb-5 pt-2 sm:pt-3 text-sm md:text-base bg-white text-gray-900 rounded-b-lg leading-relaxed break-words overflow-x-auto">
     <h3 class="font-bold text-base md:text-lg mb-2">Purposes and Benefits</h3>
-    <ul class="list-disc pl-5 space-y-1">
+    <ul class="list-disc pl-4 sm:pl-5 space-y-1">
       <li>Enrichment Track equip students with real-life skills for future career.</li>
       <li>Enrichment Track facilitates and develops students' interest and potential.</li>
       <li>Enrichment Track boosts student’s confidence, creativity, and communication.</li>
@@ -69,7 +68,7 @@
     <ul class="list-disc pl-5 space-y-1">
       <li>
         Students must participate in
-        <span class="font-semibold text-red-800">at least 2 Track</span>
+        <span class="font-semibold text               -red-800">at least 2 Track</span>
         for each semester;
       </li>
       <li>

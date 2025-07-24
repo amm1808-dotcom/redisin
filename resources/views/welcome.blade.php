@@ -25,7 +25,7 @@
     @include('layouts.header')
 
     <div class="">
-    @include('about.executive')
+    @include('about.legality')
     </div>
     @include('layouts.footer')
            </body>
